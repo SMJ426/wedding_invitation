@@ -8,12 +8,12 @@
 
 
 FE
-신민재 (깃주소)
-김하영 (깃주소)
-한혜지 (깃주소)
-이예람 (깃주소)
-이재영 (깃주소)
-박예빈 (깃주소)
+신민재 (https://github.com/SMJ426)
+김하영 (https://github.com/hangnik)
+한혜지 (https://github.com/hanhj0516)
+이예람 (https://github.com/dpfka97)
+이재영 (https://github.com/Jaeyounging)
+박예빈 (https://github.com/yebinholmes)
 
 BE
 정지현 (깃주소)
