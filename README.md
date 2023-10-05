@@ -6,7 +6,6 @@
 완성도와 시기만 맞는다면 11월달에 결혼하는 팀원의 결혼식에서도 쓰일 수 있게 노력하였다.
 
 
-
 FE
 신민재 (https://github.com/SMJ426)
 김하영 (https://github.com/hangnik)
